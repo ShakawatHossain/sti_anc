@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">STI ANC App</string>
+    <string-array name="hosname">
+        <item>Select hospital</item>
+        <item>DMCH</item>
+        <item>MMCH</item>
+        <item>CMCH</item>
+        <item>RMCH</item>
+        <item>SBMCH</item>
+        <item>SOMCH</item>
+    </string-array>
+</resources>
